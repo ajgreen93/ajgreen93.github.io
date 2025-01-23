@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Publications and Preprints
-  * [Peak Inference under Selection]
+  * Peak Inference under Selection
     - Alden Green and Jonathan Taylor
     - (In preparation)
   * [CoCA: Cooperative Components Analysis](https://arxiv.org/pdf/2407.16870)
