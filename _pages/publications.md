@@ -5,9 +5,19 @@ author_profile: true
 ---
 
 # Publications and Preprints
+  * [Peak Inference under Selection]
+    - Alden Green and Jonathan Taylor
+    - (In preparation)
+  * [CoCA: Cooperative Components Analysis](https://arxiv.org/pdf/2407.16870)
+    - Daisy Yi Ding, Alden Green, Min Woo Sun and Robert Tibshirani
+  * [The High-Dimensional Asymptotics of Principal Components Regression](https://arxiv.org/pdf/2405.11676)
+    - Alden Green and Elad Romanov
+  * [Maximum Mean Discrepancy Meets Neural Networks: The Radon-Kolmogorov-Smirnov Test](https://arxiv.org/pdf/2309.02422)
+    - Seunghoon Paik, Michael Celentano, Alden Green, Ryan J Tibshirani
   * [Minimax Optimal Regression over Sobolev Spaces via Laplacian
 Eigenmaps on Neighborhood Graphs](https://arxiv.org/abs/2111.07394)
     - Alden Green, Sivaraman Balakrishnan, and Ryan Tibshirani.
+    - Information and Inference (2023)
   * [Can Auxiliary Indicators Improve COVID-19 Forecasting and
 Hotspot Prediction?](https://www.medrxiv.org/content/10.1101/2021.06.22.21259346v2)
     - Daniel J. McDonald, Jacob Bien, Alden Green, Addison J. Hu, Nat DeFries, Sangwon Hyun, Natalia L. Oliveira, James Sharpnack, Jingjing Tang, Robert Tibshirani, Valérie Ventura, Larry Wasserman, Ryan J. Tibshirani.
