@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alden Green | Stein Fellow | Stanford University"
+title                    : "Alden Green"
 title_separator          : "-"
 name                     : &name "Alden Green"
 description              : &description "Alden Green, Stein Fellow in the Department of Statistics at Stanford University."
