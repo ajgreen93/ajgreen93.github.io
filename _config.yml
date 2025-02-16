@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alden Green"
+title                    : "Alden Green | Stein Fellow | Stanford University"
 title_separator          : "-"
 name                     : &name "Alden Green"
-description              : &description "personal description"
+description              : &description "Alden Green, Stein Fellow in the Department of Statistics at Stanford University."
 url                      : https://ajgreen93.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ajgreen93/ajgreen93.github.io"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "xCOEiEByVaD34WQWcXbaf-pQsmxUB50iqbByZBmjYcg"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
